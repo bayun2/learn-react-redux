@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "code": 200,
+    "msg": ""
+  },
+  "activityInfo": {
+    "activityId": "1112234",
+    "logo": "http://dev.img.investmaster.cn/187c5389-e2b0-4bb0-8d1d-d071af1c6910-1448424653760f1dab321-381d-4af6-b111-df28e05f66f7@720w_1l_70q",
+    "description": "This is a wonderful activity for you !",
+    "user": {
+      "userId": "11334",
+      "userName": "xiaonanzhi",
+      "cash": 10000,
+      "leftCash": 700,
+      "school": "zhejiang university",
+      "exFlag": 1,
+      "verify": 1,
+      "avatar": "http://dev.img.investmaster.cn/187c5389-e2b0-4bb0-8d1d-d071af1c6910-1448424653760f1dab321-381d-4af6-b111-df28e05f66f7@720w_1l_70q",
+      "code":"11111"
+    },
+    "rewards": [
+      {
+        "id":"1324232",
+        "cost": "26",
+        "count": "50",
+        "description": "神秘礼物，即刻开启1",
+        "leftCount": "30",
+        "name": "系统密码",
+        "pic": "http://dev.img.investmaster.cn/187c5389-e2b0-4bb0-8d1d-d071af1c6910-1448424653760f1dab321-381d-4af6-b111-df28e05f66f7@720w_1l_70q"
+      },
+      {
+        "id":"1324233",
+        "cost": "35",
+        "count": "50",
+        "description": "神秘礼物，即刻开启2",
+        "leftCount": "30",
+        "name": "fdt年会入场券",
+        "pic": "http://dev.img.investmaster.cn/187c5389-e2b0-4bb0-8d1d-d071af1c6910-1448424653760f1dab321-381d-4af6-b111-df28e05f66f7@720w_1l_70q"
+      },
+      {
+        "id":"1324234",
+        "cost": "5",
+        "count": "50",
+        "description": "神秘礼物，即刻开启3",
+        "leftCount": "30",
+        "name": "小刀会介绍信",
+        "pic": "http://dev.img.investmaster.cn/187c5389-e2b0-4bb0-8d1d-d071af1c6910-1448424653760f1dab321-381d-4af6-b111-df28e05f66f7@720w_1l_70q"
+      },
+      {
+        "id":"1324235",
+        "cost": "50",
+        "count": "50",
+        "description": "神秘礼物，即刻开启4",
+        "leftCount": "30",
+        "name": "天国门票",
+        "pic": "http://dev.img.investmaster.cn/187c5389-e2b0-4bb0-8d1d-d071af1c6910-1448424653760f1dab321-381d-4af6-b111-df28e05f66f7@720w_1l_70q"
+      }
+    ]
+  }
+}
